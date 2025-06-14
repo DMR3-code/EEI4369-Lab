@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rusiru</string>
+    <string name="s23010301">S23010301</string>
+    <string name="avatar">avatar</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_an_address">Enter an address</string>
+    <string name="show_location">Show Location</string>
+    <string name="go_to_sensor">Go to Sensor</string>
+    <string name="temperature_c">Temperature: --°C</string>
+    <string name="check_temperature">Check Temperature</string>
+</resources>
