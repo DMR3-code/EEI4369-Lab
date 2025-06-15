@@ -48,23 +48,4 @@ This is a complete Android application developed for the lab test of **EEI4369 �
 
 ---
 
-## 📂 Project Structure Highlights
 
-├── MainActivity.java # Login + DB integration
-├── MapActivity.java # Google Maps integration
-├── SensorActivity.java # Sensor + audio alert
-├── DatabaseHelper.java # SQLite database helper
-├── res/layout # XML UIs (activity_main, activity_map, activity_sensor)
-├── res/raw/alert.mp3 # Offline audio alert
-├── res/drawable # Avatar, background, border assets
-├── AndroidManifest.xml # Permissions and activity declarations
-
-
----
-
-## 🔑 Permissions Used
-
-```xml
-<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-<uses-permission android:name="android.permission.INTERNET" />
