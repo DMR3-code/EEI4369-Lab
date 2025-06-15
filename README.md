@@ -1,4 +1,4 @@
-# EEI4369 Android Lab Project – Task Integration App
+# EEI4369 Android Lab Project
 
 This is a complete Android application developed for the lab test of **EEI4369 – Mobile Application Development for Android** (BSE Honours, Open University of Sri Lanka).
 
