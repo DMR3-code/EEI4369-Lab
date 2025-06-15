@@ -4,10 +4,7 @@ This is a complete Android application developed for the lab test of **EEI4369 â
 
 ## ðŸ”§ Project Details
 
-- **Student Name:** D.M.R.R. Dissanayake
-- **Student ID (SID):** S23010301
-- **Registration Number:** 423594893
-- **Academic Year:** 2024/2025
+
 - **Language:** Java
 - **IDE:** Android Studio
 - **Minimum SDK:** 21
